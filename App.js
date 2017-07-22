@@ -25,6 +25,6 @@ const styles = StyleSheet.create({
   },
   header: {
     height: 20,
-    backgroundColor: '#222',
+    backgroundColor: '#fff',
   }
 });
